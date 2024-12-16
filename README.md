@@ -176,14 +176,13 @@ experiences.</p>
             <h2><u>Portfolio</u></h2> 
             <div class="portfolio-grid"> 
                 <div class="portfolio-item"> 
-                    <img src="project1.jpg" alt="Project 1"> 
-                    <h3>Project One</h3> 
-                    <p>A description of the project.</p> 
+                    
+                    <p>A travelling webcite.</p> 
                 </div> 
                 <div class="portfolio-item"> 
-                    <img src="project2.jpg" alt="Project 2"> 
+                    
                     <h3>Project Two</h3> 
-                    <p>A description of the project.</p> 
+                    <p>Now i am learning C language</p> 
                 </div> 
                 <!-- Add more portfolio items as needed --> 
             </div> 
